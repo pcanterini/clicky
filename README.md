@@ -15,6 +15,8 @@ Download it [here](https://www.clicky.so/) for free.
 
 Here's the [original tweet](https://x.com/FarzaTV/status/2041314633978659092) that kinda blew up for a demo for more context.
 
+![Clicky — an ai buddy that lives on your mac](clicky-demo.gif)
+
 This is the open-source version of Clicky for those that want to hack on it, build their own features, or just see how it works under the hood.
 
 ## Get started with Claude Code
